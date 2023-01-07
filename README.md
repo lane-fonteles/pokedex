@@ -1,4 +1,17 @@
+# Pokédex
+
 <img src="/pokedex.png">
+
+## Finalidade da Aplicação:
+* Buscar pelo pokémon especifico
+* Exibir a foto o nome e o tipo
+
+
+## Tecnologias usadas:
+* REACT JS 
+* AXIOS para requisição da API
+* Material UI para criar componentes
+* API Pokemon
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
